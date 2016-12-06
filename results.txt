@@ -1,0 +1,19 @@
+cs1> similar tests/small1.txt 
+Answer: 9
+Time:   6.8281e-05
+
+cs1> similar tests/small2.txt
+Answer: 13
+Time:   6.2408e-05
+
+cs1> similar tests/big1.txt
+Answer: 7345
+Time:   37.4325
+
+cs1> similar tests/big2.txt
+Answer: 9791
+Time:   85.1096
+
+cs1> similar tests/big3.txt
+Answer: 12199
+Time:   199.422
